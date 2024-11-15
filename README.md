@@ -14,13 +14,13 @@ Before using this script, make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/dante4rt/solana-custom-address-generator.git
+   git clone https://github.com/vladmeer/sol-custom-address-generator.git
    ```
 
 2. Navigate into the repository directory:
 
    ```bash
-   cd solana-custom-address-generator
+   cd sol-custom-address-generator
    ```
 
 3. Run the script:
